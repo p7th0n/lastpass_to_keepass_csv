@@ -1,3 +1,5 @@
+# LastPass to KeePass Export
+
 This is a simple Python script to help export LastPass passwords for KeePass v1.xx.
 LastPass has a feature to export to a CSV format.  The LastPass CSV format
 cannot be imported by the KeePass CSV import feature.
